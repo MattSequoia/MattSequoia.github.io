@@ -13,8 +13,10 @@ My GitHub page is http://github.com/MattSequoia.
     From Lab 6, my favorite part was part two, where we had to develop a game of Blackjack through C++.
     While the game itself is straightforward, it was much more difficult to visualize and program,
     since my partner and I had to really think about how to assign the cards their numerical values.
-    Notably, I learned how to properly write conditional statements within an if statement. This
-    knowledge stemmed from when my code kept having errors until I addressed those syntax errors.
+    However, I really liked seeing how intertwined the functions file and the main file were, as
+    programming both was important to getting the whole program to work. Notably, I learned how to
+    properly write conditional statements within an if statement. This knowledge stemmed from when my
+    code kept having errors until I addressed those syntax errors.
 
 * Lab 7
 
